@@ -1,5 +1,5 @@
 {
-    "name": "acquia/scaffold",
+    "name": "acquia/composer-scaffold",
     "description": "Composer Scaffold definitions for Acquia hosting",
     "license": "GPL-2.0-or-later",
     "authors": [
