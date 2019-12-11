@@ -25,6 +25,7 @@ matrix:
   fast_finish: true
   include:
     - { name: "Static code analysis", env: ORCA_JOB=STATIC_CODE_ANALYSIS }
+    - { name: "Isolated test w/ recommended package versions", env: ORCA_JOB=ISOLATED_RECOMMENDED }
 
 before_install:
   - git clone --branch ${ORCA_VERSION} --depth 1 https://github.com/acquia/orca.git ../orca
