@@ -18,6 +18,8 @@ env:
     - ORCA_SUT_NAME=acquia/composer-scaffold
     - ORCA_SUT_BRANCH=master
     - ORCA_VERSION=master
+    # Encrypted COVERALLS_REPO_TOKEN=...
+    - secure: "nl+CSsFBYrAPq0RQM+sFjWz+OAYNi6gFMgrCO3q7JqFfMw7dMaFdfR7ibM4CRvOhuF2y3WnN4bLubd+uaYJ+Ymm4z6Ap6y0UgQOJ9gEQ8JjmgVagXG8Xxzjew7MRRYuOb/6c7vNZMDAc5WWaC7YIeT5jYQKkKEPTCBeN+gJmIgltNolR5P1TjP4zsWFdqgYXmvSZkpQBI+87fzCozNws6TGCJzzLC3wIypcojpmEPsgc/igedxiVOJi69ThHVMNM+DhB9EKGnE8Asy6P2LSVmNiIiTxP/DCy9yr+dppiOcv8A13aova58S+OhAKSCzp0/uzOAStNp3hjAGLoLcEDTW5AkRFEt34ltiXkEoFS9KxQeNS777fB8xE5F4Thuo8zGXzZlZESlC9thPHppea+854QzWOcqpRJdXf2hsf+MTmpu1g1oj6pdu7Tkh9F43uYtQoF3sSnOKWQ2Q36hJ+fxpszTMOemczBedWUpG2KOg8g6DWrHQCb+vRiRD4jz0Y42r7jeMF2AB586Mg3s8Z99vCXUV63E3K9ujiFK3pjRp+jCkakdC8SXBIHDoRLyCtj98mchGxljF4Xo1ukW+vN8gsvg878F9jsYwjEqkmCjhJct2KEC6NZXK+PwgtjpNi7G2Cg4g0ogBg8vFRN/scsGZySE3j/iaHJrbwkFumw4bE="
 
 matrix:
   fast_finish: true
