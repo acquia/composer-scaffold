@@ -1,5 +1,6 @@
 Acquia Scaffold
 ====
+[![Build Status](https://travis-ci.com/acquia/composer-scaffold.svg?token=V11Dcpsz9xGpCipC8pBD&branch=master)](https://travis-ci.com/acquia/composer-scaffold) [![Coverage Status](https://coveralls.io/repos/github/acquia/composer-scaffold/badge.svg?branch=master)](https://coveralls.io/github/acquia/composer-scaffold?branch=master)
 
 This is a Composer package containing the necessary [Composer Scaffold](https://www.drupal.org/docs/develop/using-composer/using-drupals-composer-scaffold) definitions to run a project on Acquia hosting.
 
