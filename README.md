@@ -9,7 +9,7 @@ To use these settings, you must already have configured a [Composer-based Drupal
 
 `composer require acquia/scaffold`
 
-This will ensure that scaffolded files are placed in the docroot, and that a compatible version of Composer Scaffold is included.
+This will ensure that scaffolded files are placed in the docroot, and that a compatible version of Composer Scaffold is included. **Note that Composer Scaffold no longer supports the ability to delegate the definition of locations such as the web-root, so this functionality currently does not work.**
 
 For easier project setup, consider using [Acquia BLT](https://github.com/acquia/blt), which includes this package by default, or reference [BLT’s project template](https://github.com/acquia/blt-project).
 
