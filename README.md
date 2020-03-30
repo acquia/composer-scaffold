@@ -1,3 +1,8 @@
+This project is abandoned
+====
+
+This package has limited utility following changes to the Drupal Composer Scaffold plugin, and has been abandoned.
+
 Acquia Scaffold
 ====
 
